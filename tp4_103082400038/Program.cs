@@ -14,9 +14,9 @@ class Program
         Console.WriteLine("\nTekan enter untuk lanjut ke simulasi pintu...");
         Console.ReadLine();
 
-        //DoorMachine pintu = new DoorMachine();
+        DoorMachine pintu = new DoorMachine();
 
-        //pintu.Buka();
-        //pintu.Kunci();
+        pintu.Buka();
+        pintu.Kunci();
     }
 }
