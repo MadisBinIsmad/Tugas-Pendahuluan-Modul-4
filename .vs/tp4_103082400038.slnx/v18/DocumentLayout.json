@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\tp4_103082400038\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{236D9653-57E9-4CB8-9273-A178D04F9E59}|tp4_103082400038\\tp4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tp4_103082400038\\tp4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{236D9653-57E9-4CB8-9273-A178D04F9E59}|tp4_103082400038\\tp4_103082400038.csproj|solutionrelative:tp4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75AFC4F3-B484-367D-64B8-D80001A0199D}|tp4_103082400038\\tp4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tp4_103082400038\\tp4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AFC4F3-B484-367D-64B8-D80001A0199D}|tp4_103082400038\\tp4_103082400038.csproj|solutionrelative:tp4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AFC4F3-B484-367D-64B8-D80001A0199D}|tp4_103082400038\\tp4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tp4_103082400038\\tp4_103082400038\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AFC4F3-B484-367D-64B8-D80001A0199D}|tp4_103082400038\\tp4_103082400038.csproj|solutionrelative:tp4_103082400038\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\tp4_103082400038\\tp4_103082400038\\KodePos.cs",
+              "RelativeDocumentMoniker": "tp4_103082400038\\KodePos.cs",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\tp4_103082400038\\tp4_103082400038\\KodePos.cs",
+              "RelativeToolTip": "tp4_103082400038\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:02:34.059Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "tp4_103082400038\\Program.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\tp4_103082400038\\tp4_103082400038\\Program.cs",
               "RelativeToolTip": "tp4_103082400038\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T17:44:31.746Z",
               "EditorCaption": ""
